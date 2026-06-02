@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/two-hearts-private-view/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Two Hearts Private View](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/two-hearts-private-view/) |
+| **Get License** | [Request Licensing for Two Hearts Private View](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/two-hearts-private-view/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
